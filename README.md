@@ -9,3 +9,5 @@ En este repositorio encontrarás los desafíos realizados para **Desafío Latam*
 **1. `Desafio_1.ipynb`**  
 Contiene cuatro ejercicios introductorios para familiarizarse con los distintos tipos de datos en Python y aplicar funciones básicas útiles para el análisis de datos.
 
+**2. `Conociento Python II.ipynb`**
+Contiene los 4 ejercicios solicitados en el segundo desafío "Conociendo Python parte 2"
