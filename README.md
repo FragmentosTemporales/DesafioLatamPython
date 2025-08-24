@@ -14,3 +14,6 @@ Contiene los 4 ejercicios solicitados en el segundo desafío "Conociendo Python 
 
 **3.`Tipos y estructuras de datos`**
 Contiene una serie de ejercicios utilizando Numpy para analisis de datos con Python
+
+**4.`Desafío - Tipos y estructuras de Datos (Parte II).ipynb`**
+Desafío
